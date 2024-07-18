@@ -1,16 +1,17 @@
-## Hi there 👋
+# 웹디자이너 지망생 : 김해온
+## I aspire to become a prospective web publisher.
+깃허브 프로필 소개입니다.
 
-<!--
-**KimHaeOn/KimHaeOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+경력과 스킬&툴, 포트폴리오등의 소개가 있습니다
 
-Here are some ideas to get you started:
+### 기본 정보
+2002.2월 생
+수정구 거주
+여자
+INTP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 연락처
+010 5620 0671
+wpservice21@gmail.com
+
+### Languages and Tool
