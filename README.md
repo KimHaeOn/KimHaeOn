@@ -12,6 +12,6 @@ INTP
 
 ### 연락처
 010 5620 0671
-wpservice21@gmail.com
+kimhaeon025@gmail.com
 
 ### Languages and Tool
